@@ -72,7 +72,3 @@ Just add a folder called *_gallery* to one of your content folders. The folder m
 
 See <http://staceyapp.com> for more detailed usage information.
 Or the main stacey repo at <http://github.com/kolber/stacey>
-
-## Copyright/License
-
-Copyright (c) 2009 Anthony Kolber. See `LICENSE` for details.
